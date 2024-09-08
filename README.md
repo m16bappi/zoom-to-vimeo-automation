@@ -140,3 +140,6 @@ Here is a sample layout of the app when displaying the data:
 ```
 
 This simple web app allows you to quickly visualize and explore Zoom to Vimeo uploaded data records.
+
+## License
+This project is open-source and free to use under the [MIT License](LICENSE).
